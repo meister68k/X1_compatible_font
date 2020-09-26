@@ -1,11 +1,11 @@
 # X1互換 8x8ドットフリーフォント
 
-2020-07-24 by Meister
+2020-09-26 by Meister
 
 ## 概要
 
 8bit パソコン シャープ X1シリーズのエミュレータ等で使用可能なフリーのビットマップフォントです。  
-門真 なむ氏作の「8×8 ドット日本語フォント『美咲フォント』」(https://littlelimit.net/misaki.htm)から必要な字形を抽出し，並べたものです。
+門真 なむ氏作の「8×8 ドット日本語フォント『美咲フォント』」( https://littlelimit.net/misaki.htm )から必要な字形を抽出し，並べたものです。
 
 ## 製作の背景
 
@@ -26,6 +26,11 @@ X1font0808.png がソースファイル(?)です。字形を修正したい場�
 
 一部の図形文字を私が描きましたが，誰が描いても同じになる部分ですので2次著作権は発生しないと考えます。
 
+## 関連プロダクト
+
+X1 compatible ROM ( https://github.com/meister68k/X1_compatible_rom )
+
+
 ## ライセンス
 
 ### フォント部分のライセンス
@@ -44,4 +49,4 @@ X1font0808.png がソースファイル(?)です。字形を修正したい場�
 
 ### 添付ツール(pbm_to_cgrom.rb)のライセンス
 
-私の作成した添付ツール(pbm_to_cgrom.rb)のみCC0ライセンス(http://creativecommons.org/publicdomain/zero/1.0/deed.ja)を宣言します。
+私の作成した添付ツール(pbm_to_cgrom.rb)のみCC0ライセンス( http://creativecommons.org/publicdomain/zero/1.0/deed.ja )を宣言します。
